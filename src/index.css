@@ -1,5 +1,14 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: "Montserrat";
+  src: url("./assets/Montserrat-VariableFont_wght.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  font-family: "Montserrat";
+}
 ::-webkit-scrollbar {
   width: 8px;
 }
