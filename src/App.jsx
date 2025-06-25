@@ -12,7 +12,7 @@ export default function Portfolio() {
   const [activeTab, setActiveTab] = useState("about");
 
   const tabs = [
-    { id: "about", label: "About" },
+    { id: "about", label: "bout" },
     { id: "skills", label: "Skills" },
     { id: "services", label: "Services" },
     { id: "projects", label: "Projects" },
