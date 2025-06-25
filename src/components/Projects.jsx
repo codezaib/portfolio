@@ -7,36 +7,31 @@ export default function Projects() {
   const projectList = [
     {
       name: "Recipe World",
-      image:
-        "https://img.freepik.com/free-photo/top-view-food-ingredients-with-vegetable-soup-bowl-notebook_23-2148834720.jpg?uid=R116487181&ga=GA1.1.1082256009.1749718934&semt=ais_hybrid&w=740",
+      image: "/images/recipe.avif",
       liveLink: "https://recipe-finder-ashy.vercel.app/",
       github: "https://github.com/codezaib/recipe-finder",
     },
     {
       name: "Easly Rented",
-      image:
-        "https://img.freepik.com/free-photo/still-life-teenager-s-desk_23-2149371274.jpg?uid=R116487181&ga=GA1.1.1082256009.1749718934&semt=ais_hybrid&w=740",
+      image: "/images/easly.avif",
       liveLink: "https://your-task-app.com",
       github: "https://github.com/yourusername/task-manager",
     },
     {
       name: "Real Estate",
-      image:
-        "https://img.freepik.com/free-photo/3d-electric-car-building_23-2148972401.jpg?uid=R116487181&ga=GA1.1.1082256009.1749718934&semt=ais_hybrid&w=740",
+      image: "/images/real-estate.avif",
       liveLink: "https://your-store.com",
       github: "https://github.com/yourusername/task-manager",
     },
     {
       name: "Automobile Showrooms",
-      image:
-        "https://img.freepik.com/free-photo/young-couple-talking-sales-person-car-showroom_1303-15135.jpg?uid=R116487181&ga=GA1.1.1082256009.1749718934&semt=ais_hybrid&w=740",
+      image: "/images/showroom.avif",
       liveLink: "https://your-store.com",
       github: "https://github.com/yourusername/task-manager",
     },
     {
-      name: "Fashion and Footwear",
-      image:
-        "https://img.freepik.com/free-photo/happy-lady-stylish-skirt-boater-posing-pink-wall_197531-23653.jpg?uid=R116487181&ga=GA1.1.1082256009.1749718934&semt=ais_hybrid&w=740",
+      name: "expense tracker",
+      image: "/images/expense.avif",
       liveLink: "https://your-store.com",
       github: "https://github.com/yourusername/task-manager",
     },
