@@ -14,8 +14,8 @@ export default function Projects() {
     {
       name: "Easly Rented",
       image: "/images/easly.avif",
-      liveLink: "https://your-task-app.com",
-      github: "https://github.com/yourusername/task-manager",
+      liveLink: "https://easly-rented.vercel.app/",
+      github: "https://github.com/codezaib/easly-rented",
     },
     {
       name: "Real Estate",
