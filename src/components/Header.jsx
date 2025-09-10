@@ -10,7 +10,7 @@ export default function Header() {
       <img
         src="/images/shahzaib-profile.jpg"
         alt="Profile"
-        className="h-18 w-18 lg:w-20 lg:h-20 rounded-full border-3 border-white object-cover shadow-lg"
+        className="h-18 w-18 lg:w-20 lg:h-20 rounded-full border-3 border-white object-cover shadow-lg flex-shrink-0"
       />
     </header>
   );
